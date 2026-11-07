@@ -1,8 +1,0 @@
-{
-  "servers": [
-    {
-      "name": "zxmnik-anisette-v3-server",
-      "address": "https://zxmnik-anisette-v3-server.onrender.com/"
-    }
-  ]
-}
